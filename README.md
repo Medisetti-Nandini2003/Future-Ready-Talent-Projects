@@ -37,3 +37,7 @@ Features and Functionalities:😊😊 -It's a very human friendly website -Has m
 #HEALTHBOT:
 
 ![HEALTH BOT](https://github.com/Medisetti-Nandini2003/Future-Ready-Talent-Projects/assets/103932228/07bf62ca-12a9-4d92-b2ed-19fd5b0e72b5)
+
+
+
+Tech Stack -Azure(Hosting) -HTML -CSS -Bootstrap -JavaScript
