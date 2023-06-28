@@ -8,7 +8,9 @@ This is a web-based application developed for medical and hospital facilities in
 
 **DEMO VIDEO LINK**--  https://youtu.be/mbGz8Pzu1tk.
 
-Azure Technologies used for project😀😀 --Static web apps --Health bot
+**Azure Technologies used for project**😊😊
+-->  Static web apps 
+-->   Health bot
 
 Features and Functionalities:😊😊 -It's a very human friendly website -Has many graphical and visual innovative effects -Have an aesthetical vision if website -And it has different collections embedded in it like home,about,services, contact, health bot -provided with several medical related issues.
 **SCREENSHOTS**
@@ -39,5 +41,9 @@ Features and Functionalities:😊😊 -It's a very human friendly website -Has m
 ![HEALTH BOT](https://github.com/Medisetti-Nandini2003/Future-Ready-Talent-Projects/assets/103932228/07bf62ca-12a9-4d92-b2ed-19fd5b0e72b5)
 
 
-
-Tech Stack -Azure(Hosting) -HTML -CSS -Bootstrap -JavaScript.
+**Tech Stack**
+--> Azure(Hosting)
+--> HTML
+--> CSS
+--> Bootstrap
+--> JavaScript
