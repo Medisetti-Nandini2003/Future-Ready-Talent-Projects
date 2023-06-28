@@ -1,6 +1,6 @@
 **FUTURE READY TALENT PROJECT**
 
-🩺🩺 **MEDICAL PROJECT** 👩‍🎨👩‍🎨
+🩺🩺 **DENTILE PROJECT** 👩‍🎨👩‍🎨
 
 This is a web-based application developed for medical and hospital facilities in India. ###This web-based health application has been developed for the accomplishment of the Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
