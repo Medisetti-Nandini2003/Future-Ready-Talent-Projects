@@ -6,7 +6,7 @@ This is a web-based application developed for medical and hospital facilities in
 
 **PROJECT LINK**--  https://lively-plant-0ad168100.3.azurestaticapps.net
 
-**DEMO VIDEO LINK**--  https://youtu.be/mbGz8Pzu1tk.
+**DEMO VIDEO LINK**--  https://youtu.be/yx0wH4ZeeII
 
 **Azure Technologies used for project**😊😊
 -->  Static web apps 
