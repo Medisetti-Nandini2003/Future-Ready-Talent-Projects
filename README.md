@@ -40,4 +40,4 @@ Features and Functionalities:😊😊 -It's a very human friendly website -Has m
 
 
 
-Tech Stack -Azure(Hosting) -HTML -CSS -Bootstrap -JavaScript
+Tech Stack -Azure(Hosting) -HTML -CSS -Bootstrap -JavaScript.
