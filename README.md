@@ -5,7 +5,6 @@
 This is a web-based application developed for medical and hospital facilities in India. ###This web-based health application has been developed for the accomplishment of the Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
 **DENTILE WEBSITE DESCRIPTION**
-
      We provided good information about Dentile. Also, we give our services to people who wants it such as Dental Bridge, Dental Implant, Dental Crowns and Teeth Whitening. The Dentile Services Online Website aims to revolutionize the way people access dental care by providing a user-friendly platform that connects patients with dentists. With features like appointment booking, dentist directory, educational resources, and online consultation, the website strives to improve oral health awareness and provide convenient access to quality dental services.
 
 **PROJECT LINK**--  https://lively-plant-0ad168100.3.azurestaticapps.net
